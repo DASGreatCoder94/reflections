@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer: Then a .git folder is revealed. And, the reason why this needs to be done is to allow repos to be added. 
